@@ -9,3 +9,6 @@ The paper that gave me the idea: (the graph is not an implementation of this):
 
 
 ![](htshot.jpg)
+
+unity 6 version:
+![](htshot_hdrp.jpg)
